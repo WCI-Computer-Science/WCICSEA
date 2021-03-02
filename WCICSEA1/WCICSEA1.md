@@ -23,10 +23,15 @@ For the following _M_ lines of input, the ith line will contain the integers _A<
 This will indicate a route from _A<sub>i</sub>_ to _B<sub>i</sub>_ taking _T<sub>i</sub>_ minutes and a scariness score of _S<sub>i</sub>_.
 
 For all inputs,
+
 1 ≤ _N_ ≤ 10000
+
 1 ≤ _M_ ≤ 20000
+
 1 ≤ _A<sub>i</sub>_, _B<sub>i</sub>_ ≤ _N_
+
 1 ≤ _T_ ≤ 100
+
 1 ≤ _S_ ≤ 100
 
 Output Specification:
