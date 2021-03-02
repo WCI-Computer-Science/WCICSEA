@@ -1,2 +1,2 @@
 # WCICSEA
-A repository containing the problems and selected solutions for the WCI CS club Exec Applications
+A repository containing the problems and selected solutions for the **WCI** **CS** club **E**xec **A**pplications
